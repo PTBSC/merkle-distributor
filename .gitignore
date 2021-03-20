@@ -23,3 +23,4 @@ bq-results.processed.json
 merkle-proof.generated.json
 bq_rinkeby_test.json
 merkle_tree.json
+out

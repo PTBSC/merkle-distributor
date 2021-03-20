@@ -32,7 +32,7 @@ module.exports = {
     pool: {
       default: "0x0cEC1A9154Ff802e7934Fc916Ed7Ca50bDE6844e",
       4: '0xc4E90a8Dc6CaAb329f08ED3C8abc6b197Cf0F40A',
-      97: '0x9cda4f937e9083C7216aEBE20d3cA4CE4ad10F11'
+      97: '0x07c03e176FB92fD7C932880b8cdFd09FC9834592'
     },
   },
   networks,
