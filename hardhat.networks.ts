@@ -5,13 +5,13 @@ const networks = {}
 networks.BSC = {
   saveDeployments: true,
   url: 'https://bsc-dataseed.binance.org/',
-  accounts: ["841fce200a773711e9ccaa100303c22ce2d637f3f02b068deb248a7d1f777160"]
+  accounts: [""]
 }
 
 networks.BSC_TESTNET = {
   saveDeployments: true,
   url: 'https://data-seed-prebsc-2-s1.binance.org:8545/',
-  accounts: ["c9c8f0d3f8966e362235d5e6657267c35d8eb3d46e08633166c60d2e2b820be9"]
+  accounts: [""]
 }
 
 networks.fork = {
